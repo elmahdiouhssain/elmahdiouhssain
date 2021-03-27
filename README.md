@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @elmahdiouhssain
 - 👀 I’m a full stack developer
-- 🌱 I’m currently working with python and javascript
-- 💞️ I’m looking to collaborate on team that wnat to bring new ideas
+- 🌱 I’m currently working with the latest technologies ; python , javascript , php , mysql
+- 💞️ I’m looking to collaborate on a team that want to bring new ideas
 - 📫 How to reach me : 
 
 elmahdi.ouhssain@gmail.com || 
