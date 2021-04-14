@@ -4,10 +4,10 @@
 - 💞️ I’m looking to collaborate on a team that want to bring new ideas and can make solutions with programming languages. 
 - 📫 How to reach me : 
 
-Email : elmahdi.ouhssain@gmail.com
-Facebook : elmahdi.ouhssain/
-Instagram : elmahdi.ouhssain/
-skype : dr:katalooni
+Email : elmahdi.ouhssain@gmail.com .
+Facebook : elmahdi.ouhssain/ .
+Instagram : elmahdi.ouhssain/ .
+skype : dr:katalooni .
 
 <!---
 elmahdiouhssain/elmahdiouhssain is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
