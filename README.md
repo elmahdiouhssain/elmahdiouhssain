@@ -10,7 +10,7 @@ Facebook : elmahdi.ouhssain/ .
 
 Instagram : elmahdi.ouhssain/ .
 
-skype : dr:katalooni .
+Skype : dr:katalooni .
 
 <!---
 elmahdiouhssain/elmahdiouhssain is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
