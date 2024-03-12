@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @elmahdiouhssain
 - 👀 I’m a full stack developer & systems administrator
-- 🌱 I’m currently working with the latest technologies ; Python , Javascript , Php , Mysql, Vuejs
-- 💞️ I’m looking to collaborate on a team that want to bring new ideas and can make solutions with programming languages. 
+- 🌱 I’m currently working with the latest technologies ; Python , Javascript , Php , Mysql, Vuejs, Ajax, Jquery, Type Script. Laravel, Flask, Django, Mongodb, Ai. 
+- 💞️ I’m looking to Solve real problem using programming languages, to help people to get life easier.
 - 📫 How to reach me : 
 
 Email : elmahdi.ouhssain@gmail.com .
@@ -11,6 +11,8 @@ Facebook : elmahdi.ouhssain/ .
 Instagram : elmahdi.ouhssain/ .
 
 Skype : dr:katalooni .
+
+Telegram : https://t.me/theitprogrammers
 
 http://theitprogrammers.com/
 
